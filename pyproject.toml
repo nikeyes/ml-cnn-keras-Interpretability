@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "explainability"
 version = "0.1.0"
-description = ""
-authors = ["Jorge Castro"]
+description = "App for interpretability of keras cnn"
+authors = ["Jorge Castro <nikey_es@yahoo.es>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
@@ -12,10 +12,13 @@ mlflow = "^1.24.0"
 tensorflow-hub = "^0.12.0"
 pydot = "^1.4.2"
 graphviz = "^0.19.2"
+scikit-image = "^0.19.2"
+streamlit = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.12.1"
 notebook = "^6.4.10"
+black = {version = "^22.3.0", allow-prereleases = true}
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

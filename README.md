@@ -14,11 +14,11 @@
 
 
 ## Sample result of Grad-CAM algorithm
-- Generated with [this notebook](03-Interpretability-with-Grad-CAM.ipynb)  
+- Generated with [this notebook](notebooks/03-Interpretability-with-Grad-CAM.ipynb)  
 
-![Grad-CAM Result](grad_cam_result.jpg)
+![Grad-CAM Result](notebooks/grad_cam_result.jpg)
 
 ## Model Diagram EfficientNetV2-S
-- Generated with [this notebook](02-plot-cnn-keras-models.ipynb)
+- Generated with [this notebook](notebooks/02-plot-cnn-keras-models.ipynb)
 
-![EfficientNetV2-S](efficientnetv2_s_model_diagram.png)
+![EfficientNetV2-S](notebooks/efficientnetv2_s_model_diagram.png)
