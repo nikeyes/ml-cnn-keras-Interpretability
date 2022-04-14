@@ -1,8 +1,6 @@
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
-import mlflow
 import numpy as np
-import seaborn as sns
 import streamlit as st
 import tensorflow as tf
 from PIL import Image
