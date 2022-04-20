@@ -22,6 +22,8 @@
 
 - You can use default weights "imagenet" or download especifics weights from [efficientnetv2 github](https://github.com/GdoongMathew/EfficientNetV2/releases/)
 
+- You need to copy your custom heights in a *weights* folder
+
 
 ## Sample result of Grad-CAM algorithm
 
